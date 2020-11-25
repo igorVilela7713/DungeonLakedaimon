@@ -1,0 +1,6584 @@
+fileFormatVersion: 2
+guid: 70f6b7147906b5f4fbc54aabef42d041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7514836483995489676
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_0
+  - first:
+      213: -7205870481039445565
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_1
+  - first:
+      213: 1935185671058070909
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_2
+  - first:
+      213: 6730325734557352132
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_3
+  - first:
+      213: -5878234449848279905
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_4
+  - first:
+      213: 7919436222774027151
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_5
+  - first:
+      213: -6663353105013938061
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_6
+  - first:
+      213: 3043922558039901635
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_7
+  - first:
+      213: 6990987444112685423
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_8
+  - first:
+      213: -549237703534630775
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_9
+  - first:
+      213: 8670134930721625115
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_10
+  - first:
+      213: 9161479811372771698
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_11
+  - first:
+      213: 5523008000317701159
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_12
+  - first:
+      213: 5460214552641398503
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_13
+  - first:
+      213: 2389266572565818859
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_14
+  - first:
+      213: 3263849684158836008
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_15
+  - first:
+      213: 6167877496916525105
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_16
+  - first:
+      213: 5438194995228380906
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_17
+  - first:
+      213: 8165805517472981878
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_18
+  - first:
+      213: 2480371287037103267
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_19
+  - first:
+      213: -9135845594817475070
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_20
+  - first:
+      213: -7384761962613042756
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_21
+  - first:
+      213: -7157185307089997535
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_22
+  - first:
+      213: 163832810626219273
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_23
+  - first:
+      213: 5025027770892917360
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_24
+  - first:
+      213: -503691018575140245
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_25
+  - first:
+      213: 4669095133782985027
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_26
+  - first:
+      213: 6184832753691917391
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_27
+  - first:
+      213: -4581856663908144081
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_28
+  - first:
+      213: -7553407051495130660
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_29
+  - first:
+      213: -1610030841868388882
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_30
+  - first:
+      213: 3670366571927089811
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_31
+  - first:
+      213: -2313170406248260267
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_32
+  - first:
+      213: -4341996476756229931
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_33
+  - first:
+      213: 1998684147857818450
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_34
+  - first:
+      213: -6167535443440648762
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_35
+  - first:
+      213: -4101569856117774942
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_36
+  - first:
+      213: 3854794939505577296
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_37
+  - first:
+      213: 5936768759808038378
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_38
+  - first:
+      213: -4384693406819661011
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_39
+  - first:
+      213: -3804048097678435106
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_40
+  - first:
+      213: -7653968573672393507
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_41
+  - first:
+      213: -260615200247646733
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_42
+  - first:
+      213: 2511637289547188034
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_43
+  - first:
+      213: -1980887321051688513
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_44
+  - first:
+      213: -1446553283981757507
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_45
+  - first:
+      213: -9220731887505258668
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_46
+  - first:
+      213: 5537235306879771044
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_47
+  - first:
+      213: -4386691549310565635
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_48
+  - first:
+      213: 1231969199328613905
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_49
+  - first:
+      213: -324641962541297004
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_50
+  - first:
+      213: 8835071781467092257
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_51
+  - first:
+      213: 671784209044399163
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_52
+  - first:
+      213: 4369008535732540023
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_53
+  - first:
+      213: 583167831076739343
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_54
+  - first:
+      213: 3913436711621150179
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_55
+  - first:
+      213: 2888836812428809495
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_56
+  - first:
+      213: -2177007103051278340
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_57
+  - first:
+      213: 337482516178210070
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_58
+  - first:
+      213: 5632026817321713606
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_59
+  - first:
+      213: -200195880655093318
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_60
+  - first:
+      213: 3960499052634407044
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_61
+  - first:
+      213: 1522979350063488917
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_62
+  - first:
+      213: 2941277551487205746
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_63
+  - first:
+      213: -372739837637329640
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_64
+  - first:
+      213: -4279106887433208222
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_65
+  - first:
+      213: -4281822402321522616
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_66
+  - first:
+      213: 3871544400168963263
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_67
+  - first:
+      213: -7770745757328866593
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_68
+  - first:
+      213: 8150291409154219506
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_69
+  - first:
+      213: -5663407275121143681
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_70
+  - first:
+      213: -4555087670602841549
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_71
+  - first:
+      213: 889106510084799297
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_72
+  - first:
+      213: -847386356451724104
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_73
+  - first:
+      213: -6504840858181674735
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_74
+  - first:
+      213: 3941883925797813177
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_75
+  - first:
+      213: 1913957143436352439
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_76
+  - first:
+      213: -2311490884819092015
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_77
+  - first:
+      213: -7226574395306264114
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_78
+  - first:
+      213: 4756971480001495197
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_79
+  - first:
+      213: -3092483594974367187
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_80
+  - first:
+      213: 5267570594419918813
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_81
+  - first:
+      213: -69105888443498377
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_82
+  - first:
+      213: 3966505822764484526
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_83
+  - first:
+      213: -4402461899449083462
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_84
+  - first:
+      213: -4735988801456501442
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_85
+  - first:
+      213: -7782827998863653993
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_86
+  - first:
+      213: -7993886476965874506
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_87
+  - first:
+      213: 7214243435010633094
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_88
+  - first:
+      213: 7587461133409733499
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_89
+  - first:
+      213: 4948407683032395663
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_90
+  - first:
+      213: -8369008009766273930
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_91
+  - first:
+      213: 3650578717415113645
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_92
+  - first:
+      213: 2700519125998738397
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_93
+  - first:
+      213: 8579491484655881142
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_94
+  - first:
+      213: 8373244407582798004
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_95
+  - first:
+      213: -3729137954537435092
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_96
+  - first:
+      213: 4353197695215707477
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_97
+  - first:
+      213: 5033621296161465073
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_98
+  - first:
+      213: -6478569346876933047
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_99
+  - first:
+      213: 4670373366716183288
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_100
+  - first:
+      213: 462952693878821806
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_101
+  - first:
+      213: -6964290755660483995
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_102
+  - first:
+      213: 3630498858226659144
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_103
+  - first:
+      213: -2786322644438508412
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_104
+  - first:
+      213: 6957222458814644066
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_105
+  - first:
+      213: -1586227092792668161
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_106
+  - first:
+      213: 4644980911096082097
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_107
+  - first:
+      213: -420372287813333465
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_108
+  - first:
+      213: 8010330406321534552
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_109
+  - first:
+      213: 429317677638114138
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_110
+  - first:
+      213: -7286639557581589204
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_111
+  - first:
+      213: 5003884644587092775
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_112
+  - first:
+      213: 2207479622012472471
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_113
+  - first:
+      213: 5335108902189872733
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_114
+  - first:
+      213: 5514258203089146149
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_115
+  - first:
+      213: -5689492824063699729
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_116
+  - first:
+      213: 4446195010989540663
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_117
+  - first:
+      213: 5655774371331763772
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_118
+  - first:
+      213: -1697356051362824597
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_119
+  - first:
+      213: 7022723162479455444
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_120
+  - first:
+      213: 245261064118452368
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_121
+  - first:
+      213: 2715131414040563549
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_122
+  - first:
+      213: 2913930496443797955
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_123
+  - first:
+      213: 8661889353674029984
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_124
+  - first:
+      213: 2790384218831870282
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_125
+  - first:
+      213: 1309388905176360408
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_126
+  - first:
+      213: -6246578800034769996
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_127
+  - first:
+      213: -3015293406930149087
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_128
+  - first:
+      213: -2235195755021053527
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_129
+  - first:
+      213: -3258735329180272653
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_130
+  - first:
+      213: -4017983229644609018
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_131
+  - first:
+      213: 5169229998050604244
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_132
+  - first:
+      213: 4089871097809200853
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_133
+  - first:
+      213: 3879217797112866358
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_134
+  - first:
+      213: 1699555138275388170
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_135
+  - first:
+      213: -3810382460420169974
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_136
+  - first:
+      213: 2260659343235488844
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_137
+  - first:
+      213: -9203558296349335836
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_138
+  - first:
+      213: 8934225643843127758
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_139
+  - first:
+      213: 303579862412836425
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_140
+  - first:
+      213: 9092044947523737953
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_141
+  - first:
+      213: -9222654566017030854
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_142
+  - first:
+      213: 3785056704100216140
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_143
+  - first:
+      213: 5546020024969446782
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_144
+  - first:
+      213: 162860509966694564
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_145
+  - first:
+      213: -430183071937604508
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_146
+  - first:
+      213: -4028513157398119609
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_147
+  - first:
+      213: -7707552365465621135
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_148
+  - first:
+      213: -3949419102497728357
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_149
+  - first:
+      213: -7894583409166570181
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_150
+  - first:
+      213: 1553610757528959358
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_151
+  - first:
+      213: -5608205151123849112
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_152
+  - first:
+      213: 5557689976405696549
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_153
+  - first:
+      213: 2218634067939633833
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_154
+  - first:
+      213: 670978353067200573
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_155
+  - first:
+      213: -1321586200067059313
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_156
+  - first:
+      213: 5578581634621504600
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_157
+  - first:
+      213: 6988723220816986566
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_158
+  - first:
+      213: 8442970756053344272
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_159
+  - first:
+      213: 4481254438209848015
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_160
+  - first:
+      213: -3425862220300783130
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_161
+  - first:
+      213: -9203884124654457357
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_162
+  - first:
+      213: -4296570243899966635
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_163
+  - first:
+      213: -1317521608369804453
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_164
+  - first:
+      213: 7424290848516369430
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_165
+  - first:
+      213: -1096508788749203358
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_166
+  - first:
+      213: 6895680411683695263
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_167
+  - first:
+      213: -4763084067307211371
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_168
+  - first:
+      213: 6726078808422482231
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_169
+  - first:
+      213: -2669883672186108385
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_170
+  - first:
+      213: 636281758722682110
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_171
+  - first:
+      213: -987382557004869633
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_172
+  - first:
+      213: 3339408119838319609
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_173
+  - first:
+      213: 2963854805450925631
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_174
+  - first:
+      213: 8626464746221963341
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_175
+  - first:
+      213: -5797307865763408695
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_176
+  - first:
+      213: 7988143860624300846
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_177
+  - first:
+      213: -7013389637165401109
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_178
+  - first:
+      213: 2333166688369760373
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_179
+  - first:
+      213: 524977612142047654
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_180
+  - first:
+      213: -6785218726579375941
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_181
+  - first:
+      213: -3903079516897772390
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_182
+  - first:
+      213: 3598476737426556865
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_183
+  - first:
+      213: 4358593131084415739
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_184
+  - first:
+      213: -908103566364035071
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_185
+  - first:
+      213: -605504997923483590
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_186
+  - first:
+      213: 2562774546477769927
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_187
+  - first:
+      213: -3630762074833070188
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_188
+  - first:
+      213: -144355246405459628
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_189
+  - first:
+      213: -3892884951584395830
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_190
+  - first:
+      213: -3345542270281831238
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_191
+  - first:
+      213: -5543282918685175310
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_192
+  - first:
+      213: -5837412944986794939
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_193
+  - first:
+      213: -1423602281814249310
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_194
+  - first:
+      213: -6519877460442736427
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_195
+  - first:
+      213: 5693539339376158858
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_196
+  - first:
+      213: -3820704709928530574
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_197
+  - first:
+      213: -5386678849802982795
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_198
+  - first:
+      213: -1476538449014782830
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_199
+  - first:
+      213: -3743609912986549862
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_200
+  - first:
+      213: 7581684718194978150
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_201
+  - first:
+      213: -1318881102880897800
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_202
+  - first:
+      213: 3982000691094189506
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_203
+  - first:
+      213: 4787497225197793346
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_204
+  - first:
+      213: 1207444440713622628
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_205
+  - first:
+      213: 1762076826288051407
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_206
+  - first:
+      213: 5544506812777401356
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_207
+  - first:
+      213: -4715285472105371979
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_208
+  - first:
+      213: -3692948345793447514
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_209
+  - first:
+      213: -1405497977083097518
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_210
+  - first:
+      213: 2244329948321467980
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_211
+  - first:
+      213: -3948687349150058453
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_212
+  - first:
+      213: -6152729508197421245
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_213
+  - first:
+      213: -8266425793514781334
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_214
+  - first:
+      213: -575952293870008296
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_215
+  - first:
+      213: -9178659598148512415
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_216
+  - first:
+      213: 3973962524215548021
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_217
+  - first:
+      213: 6966833377527781917
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_218
+  - first:
+      213: 2873838787568097182
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_219
+  - first:
+      213: -4494106245906406621
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_220
+  - first:
+      213: -7594609544418473228
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_221
+  - first:
+      213: 6195683388242652318
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_222
+  - first:
+      213: 8704845666696029567
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_223
+  - first:
+      213: -2915055226439295374
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_224
+  - first:
+      213: 6479976029315317428
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_225
+  - first:
+      213: 8389409881959647396
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_226
+  - first:
+      213: 8352085825643220429
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_227
+  - first:
+      213: 713252291680052963
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_228
+  - first:
+      213: 8752135051011112293
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_229
+  - first:
+      213: 2002064839427633129
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_230
+  - first:
+      213: 492172557197329578
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_231
+  - first:
+      213: -4464195126804527948
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_232
+  - first:
+      213: 830250384970639069
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_233
+  - first:
+      213: -5058736070910014083
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_234
+  - first:
+      213: 2931959821759850775
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_235
+  - first:
+      213: -4191362643809488816
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_236
+  - first:
+      213: -5881430391793640702
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_237
+  - first:
+      213: -7839041858988458502
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_238
+  - first:
+      213: -5948054651611648146
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_239
+  - first:
+      213: 1506988610341972464
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_240
+  - first:
+      213: 4892887361530962765
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_241
+  - first:
+      213: -6204909808539015217
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_242
+  - first:
+      213: -4663428702982932156
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_243
+  - first:
+      213: 4167804277427155569
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_244
+  - first:
+      213: 205462046477329545
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_245
+  - first:
+      213: -2963233940046418694
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_246
+  - first:
+      213: 3462814892032439985
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_247
+  - first:
+      213: -7456952160319629050
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_248
+  - first:
+      213: -6413571440357810835
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_249
+  - first:
+      213: -1169044577725499353
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_250
+  - first:
+      213: 1827401565430332292
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_251
+  - first:
+      213: 4486921464565236988
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_252
+  - first:
+      213: -7695403806138313254
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_253
+  - first:
+      213: -7213600932800999422
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_254
+  - first:
+      213: -3186704444742612386
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_255
+  - first:
+      213: -421105434698354801
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_256
+  - first:
+      213: 3324928402884435493
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_257
+  - first:
+      213: 2384670332479464811
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_258
+  - first:
+      213: -423201493087910610
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_259
+  - first:
+      213: 3918973725701802778
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_260
+  - first:
+      213: -6679129450275320356
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_261
+  - first:
+      213: -7048297755945440555
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_262
+  - first:
+      213: -2441529764691590350
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_263
+  - first:
+      213: 3716342383854757559
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_264
+  - first:
+      213: -716826875797365790
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_265
+  - first:
+      213: -435917402426421950
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_266
+  - first:
+      213: -2315492812466128378
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_267
+  - first:
+      213: 9030577429740799487
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_268
+  - first:
+      213: -72186968191285867
+    second: PC Computer - Ragnarok Online - Valkyrie Randgris_269
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 870
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8552b587ff0a4860800000000000000
+      internalID: 7514836483995489676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 878
+        width: 169
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1bb20d9fa9ffb90800000000000000
+      internalID: -7205870481039445565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 885
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d97d16d192bda10800000000000000
+      internalID: 1935185671058070909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 885
+        width: 155
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c006f6c89be66d50800000000000000
+      internalID: 6730325734557352132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 996
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c545e79e05c6ea0800000000000000
+      internalID: -5878234449848279905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 887
+        width: 153
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83aecf194d77ed60800000000000000
+      internalID: 7919436222774027151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 882
+        width: 168
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e5aaa7a30783a0800000000000000
+      internalID: -6663353105013938061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 719
+        width: 141
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c544cb607f2e3a20800000000000000
+      internalID: 3043922558039901635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 723
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f697d836a0af40160800000000000000
+      internalID: 6990987444112685423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 721
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882197f737b068f0800000000000000
+      internalID: -549237703534630775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 721
+        width: 141
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b145e5c78c1825870800000000000000
+      internalID: 8670134930721625115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_11
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 723
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27969cd495d142f70800000000000000
+      internalID: 9161479811372771698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 721
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb39e938aa5ac40800000000000000
+      internalID: 5523008000317701159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 779
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6eb97c43496cb40800000000000000
+      internalID: 5460214552641398503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 779
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed2083f941682120800000000000000
+      internalID: 2389266572565818859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 779
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dee80cef58b4d20800000000000000
+      internalID: 3263849684158836008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_16
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 779
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c5d597e3b89550800000000000000
+      internalID: 6167877496916525105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_17
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 779
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee05ed0989587b40800000000000000
+      internalID: 5438194995228380906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_18
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 779
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e6e59ad4c25170800000000000000
+      internalID: 8165805517472981878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_19
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 776
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3accce24b8c0c6220800000000000000
+      internalID: 2480371287037103267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_20
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 734
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4616d5d4f63180800000000000000
+      internalID: -9135845594817475070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 769
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb112a30f1e048990800000000000000
+      internalID: -7384761962613042756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 770
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121714332e19cac90800000000000000
+      internalID: -7157185307089997535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 763
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dfdefb21d064200800000000000000
+      internalID: 163832810626219273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_24
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 763
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9b86422c7cb540800000000000000
+      internalID: 5025027770892917360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_25
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 763
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2641ffa78209f0800000000000000
+      internalID: -503691018575140245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_26
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 763
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c3a74945fbc040800000000000000
+      internalID: 4669095133782985027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_27
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 763
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cf10fee90f4d550800000000000000
+      internalID: 6184832753691917391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 760
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cafffc3a9f960c0800000000000000
+      internalID: -4581856663908144081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 746
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b3bb6e48ec2790800000000000000
+      internalID: -7553407051495130660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 1211
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f209ca7508a9e0800000000000000
+      internalID: -1610030841868388882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 552
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392be2363f2cfe230800000000000000
+      internalID: 3670366571927089811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 559
+        width: 158
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d50ae65c7f5efd0800000000000000
+      internalID: -2313170406248260267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 561
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d082f295312eb3c0800000000000000
+      internalID: -4341996476756229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 679
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253054b94a0ccbb10800000000000000
+      internalID: 1998684147857818450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_35
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 542
+        width: 87
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdb612f033886aa0800000000000000
+      internalID: -6167535443440648762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_36
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 677
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a566a862fb4417c0800000000000000
+      internalID: -4101569856117774942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 535
+        width: 168
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d043be29bfe7530800000000000000
+      internalID: 3854794939505577296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_38
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 548
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59ef19bb3a36250800000000000000
+      internalID: 5936768759808038378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_39
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 550
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b448dd3907623c0800000000000000
+      internalID: -4384693406819661011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_40
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 662
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc506de86e453bc0800000000000000
+      internalID: -3804048097678435106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 546
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f04c7224a7c590800000000000000
+      internalID: -7653968573672393507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 496
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5fb2e2bdb126cf0800000000000000
+      internalID: -260615200247646733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 503
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c510cec02bd220800000000000000
+      internalID: 2511637289547188034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_44
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 370
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb193a80a797284e0800000000000000
+      internalID: -1980887321051688513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_45
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 388
+        width: 155
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b79fc37fccebe0800000000000000
+      internalID: -1446553283981757507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 374
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c12ca331690080800000000000000
+      internalID: -9220731887505258668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 374
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1e1509c2638dc40800000000000000
+      internalID: 5537235306879771044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 488
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c22017475f13c0800000000000000
+      internalID: -4386691549310565635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 484
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165434a575d81110800000000000000
+      internalID: 1231969199328613905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_50
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 489
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4925a87ead3ae7bf0800000000000000
+      internalID: -324641962541297004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257c6b99fa7c9a70800000000000000
+      internalID: 8835071781467092257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 374
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34eec9cd28a25900800000000000000
+      internalID: 671784209044399163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_53
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 366
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772dcf08d16d1ac30800000000000000
+      internalID: 4369008535732540023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_54
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 394
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0993c77d04d71800800000000000000
+      internalID: 583167831076739343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 374
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5c62774f15f4630800000000000000
+      internalID: 3913436711621150179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_56
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 451
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71514e276c5371820800000000000000
+      internalID: 2888836812428809495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 465
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75025f297b9c1e0800000000000000
+      internalID: -2177007103051278340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d05b67f8afea400800000000000000
+      internalID: 337482516178210070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 443
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3fe3fc8af82e40800000000000000
+      internalID: 5632026817321713606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_60
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 444
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18e0048e2c83df0800000000000000
+      internalID: -200195880655093318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 437
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808b8d97e486f630800000000000000
+      internalID: 3960499052634407044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_62
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 433
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1ac856a5b22510800000000000000
+      internalID: 1522979350063488917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 401
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c93a795481d820800000000000000
+      internalID: 2941277551487205746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 396
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7dffa713c3daf0800000000000000
+      internalID: -372739837637329640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 1211
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ebd9225fe8d94c0800000000000000
+      internalID: -4279106887433208222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 362
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840e05e0639e394c0800000000000000
+      internalID: -4281822402321522616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_67
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 362
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc4930ae1d7ab530800000000000000
+      internalID: 3871544400168963263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_68
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20a86a7e3c82490800000000000000
+      internalID: -7770745757328866593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_69
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd1e82cad6ab1170800000000000000
+      internalID: 8150291409154219506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_70
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 362
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f709a0cd6198761b0800000000000000
+      internalID: -5663407275121143681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_71
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c4f0c5e319c0c0800000000000000
+      internalID: -4555087670602841549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_72
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 135
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b771509adb65c00800000000000000
+      internalID: 889106510084799297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 307
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4be24399a7d34f0800000000000000
+      internalID: -847386356451724104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_74
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 307
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11952af14b92ab5a0800000000000000
+      internalID: -6504840858181674735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_75
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 326
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3007ab8264b630800000000000000
+      internalID: 3941883925797813177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_76
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 319
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb58d1a1edbf8a10800000000000000
+      internalID: 1913957143436352439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 323
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddfdcc794febefd0800000000000000
+      internalID: -2311490884819092015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_78
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 323
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec936d020ec06bb90800000000000000
+      internalID: -7226574395306264114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_79
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 315
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9047288b58240240800000000000000
+      internalID: 4756971480001495197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_80
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 328
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2274d71e8a4515d0800000000000000
+      internalID: -3092483594974367187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_81
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 314
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd741bdfb8b2a1940800000000000000
+      internalID: 5267570594419918813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_82
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 325
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77000738f8c7a0ff0800000000000000
+      internalID: -69105888443498377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_83
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 326
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74565c70cdb0730800000000000000
+      internalID: 3966505822764484526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 207
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9552a4a3057e2c0800000000000000
+      internalID: -4402461899449083462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 321
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d05f40743664eb0800000000000000
+      internalID: -4735988801456501442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_86
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 314
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79384c39b27ddf390800000000000000
+      internalID: -7782827998863653993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_87
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 312
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b476a54a92001190800000000000000
+      internalID: -7993886476965874506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 324
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68da0037e242e1460800000000000000
+      internalID: 7214243435010633094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_89
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 319
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b48f363b31c4960800000000000000
+      internalID: 7587461133409733499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 225
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa5f6e1964ca440800000000000000
+      internalID: 4948407683032395663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 225
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c7b775e8f4bdb80800000000000000
+      internalID: -8369008009766273930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_92
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 289
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3012c700679a230800000000000000
+      internalID: 3650578717415113645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_93
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 203
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb9d4e46db2a7520800000000000000
+      internalID: 2700519125998738397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_94
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 311
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb07689c0a701770800000000000000
+      internalID: 8579491484655881142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_95
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 302
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0bf73ec6db33470800000000000000
+      internalID: 8373244407582798004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_96
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c209e55c9c07f3cc0800000000000000
+      internalID: -3729137954537435092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_97
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 313
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555a1645d3aa96c30800000000000000
+      internalID: 4353197695215707477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_98
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 314
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ab8b46e30bd540800000000000000
+      internalID: 5033621296161465073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_99
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 306
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7aa2018f7716a0800000000000000
+      internalID: -6478569346876933047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_100
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 306
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2309315df70d040800000000000000
+      internalID: 4670373366716183288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_101
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 306
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31572b50dbc6600800000000000000
+      internalID: 462952693878821806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_102
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 306
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562f154c47ed95f90800000000000000
+      internalID: -6964290755660483995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_103
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 302
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84faf02f97f126230800000000000000
+      internalID: 3630498858226659144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_104
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c9d94415ef459d0800000000000000
+      internalID: -2786322644438508412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_105
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 310
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f340127f40d8060800000000000000
+      internalID: 6957222458814644066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_106
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0ef00dd69cf9e0800000000000000
+      internalID: -1586227092792668161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_107
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 303
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2a5a4789467040800000000000000
+      internalID: 4644980911096082097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_108
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec777a1a98a2af0800000000000000
+      internalID: -420372287813333465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_109
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 303
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563e4260196a2f60800000000000000
+      internalID: 8010330406321534552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_110
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 288
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5a67372e35f500800000000000000
+      internalID: 429317677638114138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_111
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 298
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c253a0cbde7a0ea90800000000000000
+      internalID: -7286639557581589204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_112
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 264
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b35a1929e517540800000000000000
+      internalID: 5003884644587092775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_113
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 288
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c87fe350b82ae10800000000000000
+      internalID: 2207479622012472471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_114
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 246
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563d09a74d1a0a40800000000000000
+      internalID: 5335108902189872733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_115
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 295
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52199e2be94968c40800000000000000
+      internalID: 5514258203089146149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_116
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 293
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49c85bb6cda01b0800000000000000
+      internalID: -5689492824063699729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_117
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 264
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73545283ece04bd30800000000000000
+      internalID: 4446195010989540663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_118
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 286
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eecfc33d85d7e40800000000000000
+      internalID: 5655774371331763772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_119
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 282
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb82d0aa7c178e0800000000000000
+      internalID: -1697356051362824597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_120
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 283
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcee7f1289b57160800000000000000
+      internalID: 7022723162479455444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_121
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 276
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c30c63a7576300800000000000000
+      internalID: 245261064118452368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_122
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f446cb2a51ea520800000000000000
+      internalID: 2715131414040563549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_123
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 274
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d5bc095c507820800000000000000
+      internalID: 2913930496443797955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_124
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 220
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7a797976353870800000000000000
+      internalID: 8661889353674029984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_125
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 277
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a495456b9af69b620800000000000000
+      internalID: 2790384218831870282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_126
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 267
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5efd59542eb2210800000000000000
+      internalID: 1309388905176360408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_127
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 280
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3117a5da1bf49a0800000000000000
+      internalID: -6246578800034769996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_128
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 278
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e9524f968726d0800000000000000
+      internalID: -3015293406930149087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_129
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 260
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1528aad4dfaf0e0800000000000000
+      internalID: -2235195755021053527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_130
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 275
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b13fcb75a6c2d0800000000000000
+      internalID: -3258735329180272653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_131
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 269
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a6e837a814d38c0800000000000000
+      internalID: -4017983229644609018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_132
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 268
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47914ab4bccb740800000000000000
+      internalID: 5169229998050604244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_133
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 270
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ed0a281422c830800000000000000
+      internalID: 4089871097809200853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_134
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 267
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63629439800c5d530800000000000000
+      internalID: 3879217797112866358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_135
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 269
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b2815c468069710800000000000000
+      internalID: 1699555138275388170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_136
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 267
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd64c275dce1bc0800000000000000
+      internalID: -3810382460420169974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_137
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 267
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c18b7f1b97f5f10800000000000000
+      internalID: 2260659343235488844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_138
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 264
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9f74fd74664080800000000000000
+      internalID: -9203558296349335836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_139
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 254
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9847433eebcfb70800000000000000
+      internalID: 8934225643843127758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_140
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 249
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3414c648863400800000000000000
+      internalID: 303579862412836425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_141
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 251
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169990345be6d2e70800000000000000
+      internalID: 9092044947523737953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_142
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 254
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ab62398c820080800000000000000
+      internalID: -9222654566017030854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_143
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 256
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4daa9ea409378430800000000000000
+      internalID: 3785056704100216140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_144
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 247
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c18124db67fc40800000000000000
+      internalID: 5546020024969446782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_145
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 248
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f08c55c8924200800000000000000
+      internalID: 162860509966694564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_146
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 211
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d5c876cea70af0800000000000000
+      internalID: -430183071937604508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_147
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 245
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b3c4890a8d718c0800000000000000
+      internalID: -4028513157398119609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_148
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 250
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d23b0c5f5490590800000000000000
+      internalID: -7707552365465621135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_149
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 246
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b981b7e4048d039c0800000000000000
+      internalID: -3949419102497728357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_150
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 246
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2fe6773ec07290800000000000000
+      internalID: -7894583409166570181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_151
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 227
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793db9a0c88f8510800000000000000
+      internalID: 1553610757528959358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_152
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 246
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8604fbbe027ab22b0800000000000000
+      internalID: -5608205151123849112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_153
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 238
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520296f6691e02d40800000000000000
+      internalID: 5557689976405696549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_154
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 232
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2f121eeb2ace10800000000000000
+      internalID: 2218634067939633833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_155
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 230
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301c82d14bcf4900800000000000000
+      internalID: 670978353067200573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_156
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 237
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d1f46a58c8ade0800000000000000
+      internalID: -1321586200067059313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_157
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 233
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cf12aa07a1b6d40800000000000000
+      internalID: 5578581634621504600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_158
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 231
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10252ddbeecf060800000000000000
+      internalID: 6988723220816986566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_159
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 224
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010229b7b257b2570800000000000000
+      internalID: 8442970756053344272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_160
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 218
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc204a93b2d903e30800000000000000
+      internalID: 4481254438209848015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_161
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 227
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e17a8d2674e470d0800000000000000
+      internalID: -3425862220300783130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_162
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 228
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2d14272c354080800000000000000
+      internalID: -9203884124654457357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_163
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 222
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b34db90248f54c0800000000000000
+      internalID: -4296570243899966635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_164
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 223
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6735e31937bde0800000000000000
+      internalID: -1317521608369804453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_165
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 222
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c600fe031680760800000000000000
+      internalID: 7424290848516369430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_166
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 212
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2688281f01b68c0f0800000000000000
+      internalID: -1096508788749203358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_167
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 216
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa60facc062bf50800000000000000
+      internalID: 6895680411683695263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_168
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 216
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b4d4d64026edb0800000000000000
+      internalID: -4763084067307211371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_169
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 213
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7310e4b3a05d75d50800000000000000
+      internalID: 6726078808422482231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_170
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 196
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164bbf12faa2fad0800000000000000
+      internalID: -2669883672186108385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_171
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 210
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce9bd63e684d800800000000000000
+      internalID: 636281758722682110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_172
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 201
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffce48bbcc1c42f0800000000000000
+      internalID: -987382557004869633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_173
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 199
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a407fdf5f75e20800000000000000
+      internalID: 3339408119838319609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_174
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36acbc0e3ab12920800000000000000
+      internalID: 2963854805450925631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488df15bfb57b770800000000000000
+      internalID: 8626464746221963341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_176
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 124
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c418972633db8fa0800000000000000
+      internalID: -5797307865763408695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_177
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 128
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9a3ba4869bde60800000000000000
+      internalID: 7988143860624300846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_178
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 125
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb955984f6bae90800000000000000
+      internalID: -7013389637165401109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_179
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 119
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578dd0ecdb2116020800000000000000
+      internalID: 2333166688369760373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_180
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 143
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a172c65b58194700800000000000000
+      internalID: 524977612142047654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_181
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 136
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb078ee848f06d1a0800000000000000
+      internalID: -6785218726579375941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_182
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 141
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7439dbd975d9c0800000000000000
+      internalID: -3903079516897772390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_183
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 141
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c701d2f68b50f130800000000000000
+      internalID: 3598476737426556865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_184
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 133
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf28eb22c55dc7c30800000000000000
+      internalID: 4358593131084415739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_185
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 146
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083b932e94c563f0800000000000000
+      internalID: -908103566364035071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_186
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 132
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a301c099960d897f0800000000000000
+      internalID: -605504997923483590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_187
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 143
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c468323fddc09320800000000000000
+      internalID: 2562774546477769927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_188
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 144
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975d992121fc9dc0800000000000000
+      internalID: -3630762074833070188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_189
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 132
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e9801ba52ffdf0800000000000000
+      internalID: -144355246405459628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_190
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 130
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd295d03c1b9f9c0800000000000000
+      internalID: -3892884951584395830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_191
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 122
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2cc6d70f3291d0800000000000000
+      internalID: -3345542270281831238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_192
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 20
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f197461e8d4213b0800000000000000
+      internalID: -5543282918685175310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_193
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 139
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5449bcebad75dfea0800000000000000
+      internalID: -5837412944986794939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_194
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 130
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0b60b64495e3ce0800000000000000
+      internalID: -1423602281814249310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_195
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 142
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d81c375efdb485a0800000000000000
+      internalID: -6519877460442736427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_196
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 137
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a886a3e0dd3830f40800000000000000
+      internalID: 5693539339376158858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_197
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 84
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4c0d2f412afac0800000000000000
+      internalID: -3820704709928530574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_198
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a226e302cae35b0800000000000000
+      internalID: -5386678849802982795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_199
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 114
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29484498a18428be0800000000000000
+      internalID: -1476538449014782830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_200
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 20
+        width: 131
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914ece5e960c0cc0800000000000000
+      internalID: -3743609912986549862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_201
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 131
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de40be41e873960800000000000000
+      internalID: 7581684718194978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_202
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 129
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f40fc9ef9462bde0800000000000000
+      internalID: -1318881102880897800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_203
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 120
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57700f788e24730800000000000000
+      internalID: 3982000691094189506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_204
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240351f6c5b907240800000000000000
+      internalID: 4787497225197793346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_205
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46471ce4254b1c010800000000000000
+      internalID: 1207444440713622628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_206
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 54
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d8d1a987247810800000000000000
+      internalID: 1762076826288051407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_207
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 119
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8456f19b02fc40800000000000000
+      internalID: 5544506812777401356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_208
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 82
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6699488d0ff8eb0800000000000000
+      internalID: -4715285472105371979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_209
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 92
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a97d1bab0300ccc0800000000000000
+      internalID: -3692948345793447514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_210
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 111
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e8e67590bae7ce0800000000000000
+      internalID: -1405497977083097518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_211
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 109
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec8707236752f10800000000000000
+      internalID: 2244329948321467980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_212
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 108
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f4d8e6c17339c0800000000000000
+      internalID: -3948687349150058453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_213
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 114
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f24d06c1d1d9aa0800000000000000
+      internalID: -6152729508197421245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_214
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 93
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65cc67c981c74d80800000000000000
+      internalID: -8266425793514781334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_215
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 101
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188e44b07ec108f0800000000000000
+      internalID: -575952293870008296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_216
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 51
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d022e9b9de9080800000000000000
+      internalID: -9178659598148512415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_217
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 104
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578159e5cd9562730800000000000000
+      internalID: 3973962524215548021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_218
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 100
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ad0e48b0a2fa060800000000000000
+      internalID: 6966833377527781917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_219
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 102
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975cbaa62de1e720800000000000000
+      internalID: 2873838787568097182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_220
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 102
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32362ed1e2ab1a1c0800000000000000
+      internalID: -4494106245906406621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_221
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 50
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa45297bd68a9690800000000000000
+      internalID: -7594609544418473228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_222
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 95
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cedf8273d7bf550800000000000000
+      internalID: 6195683388242652318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_223
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 92
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e30c7303ddc870800000000000000
+      internalID: 8704845666696029567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_224
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 97
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e907757b4ab87d0800000000000000
+      internalID: -2915055226439295374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_225
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 88
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb264cddf7de950800000000000000
+      internalID: 6479976029315317428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_226
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 85
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a84b51b6db2d6470800000000000000
+      internalID: 8389409881959647396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_227
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 87
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd0a03aec198e370800000000000000
+      internalID: 8352085825643220429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_228
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 38
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a2d82e2bf5e900800000000000000
+      internalID: 713252291680052963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_229
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 49
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d33c54574d57970800000000000000
+      internalID: 8752135051011112293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_230
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 89
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef22633d53c8cb10800000000000000
+      internalID: 2002064839427633129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_231
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 86
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa441f7455c84d600800000000000000
+      internalID: 492172557197329578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_232
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 82
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b449ca3f2efb02c0800000000000000
+      internalID: -4464195126804527948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_233
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 84
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66ec68354a58b00800000000000000
+      internalID: 830250384970639069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_234
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 50
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d04f88852cbc9b0800000000000000
+      internalID: -5058736070910014083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_235
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 73
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a6b77ce960b820800000000000000
+      internalID: 2931959821759850775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_236
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 79
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b4ead1e945d5c0800000000000000
+      internalID: -4191362643809488816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_237
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 69
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b14f54836f06ea0800000000000000
+      internalID: -5881430391793640702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_238
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 72
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd339756f0263390800000000000000
+      internalID: -7839041858988458502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_239
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 73
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe31afec3447da0800000000000000
+      internalID: -5948054651611648146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_240
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 64
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92eff1826e9e410800000000000000
+      internalID: 1506988610341972464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_241
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d432d06b12707e340800000000000000
+      internalID: 4892887361530962765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_242
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 67
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7e1b6776bb3e9a0800000000000000
+      internalID: -6204909808539015217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_243
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 12
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44977537d4c284fb0800000000000000
+      internalID: -4663428702982932156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_244
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172366988e307d930800000000000000
+      internalID: 4167804277427155569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_245
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9842b1784a2f9d200800000000000000
+      internalID: 205462046477329545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_246
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 50
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce6217e6a70e6d0800000000000000
+      internalID: -2963233940046418694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_247
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b68a2cc36e0030800000000000000
+      internalID: 3462814892032439985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_248
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 50
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091111d485938890800000000000000
+      internalID: -7456952160319629050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_249
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 29
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd1eb61ca6ef6a0800000000000000
+      internalID: -6413571440357810835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_250
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 25
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72833128628b6cfe0800000000000000
+      internalID: -1169044577725499353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_251
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 45
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb771ba0c3c5910800000000000000
+      internalID: 1827401565430332292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_252
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 40
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf48c7e9c4fb44e30800000000000000
+      internalID: 4486921464565236988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_253
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 36
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5dfe3a20f643590800000000000000
+      internalID: -7695403806138313254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_254
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 37
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20058f0cb2424eb90800000000000000
+      internalID: -7213600932800999422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_255
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 30
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a45fef03d86c3d0800000000000000
+      internalID: -3186704444742612386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_256
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 40
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f61d796dee72af0800000000000000
+      internalID: -421105434698354801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_257
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 39
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e988524c4842e20800000000000000
+      internalID: 3324928402884435493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_258
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 30
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e9d9680d081120800000000000000
+      internalID: 2384670332479464811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_259
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 34
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258418fb7c702af0800000000000000
+      internalID: -423201493087910610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_260
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 32
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8b8407ddf26630800000000000000
+      internalID: 3918973725701802778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_261
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 28
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4d7b0727fe43a0800000000000000
+      internalID: -6679129450275320356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_262
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 26
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da60b1d88a6f2e90800000000000000
+      internalID: -7048297755945440555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_263
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c3036d91fd1ed0800000000000000
+      internalID: -2441529764691590350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_264
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 12
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6246545b9139330800000000000000
+      internalID: 3716342383854757559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_265
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 16
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb15ae11c15d06f0800000000000000
+      internalID: -716826875797365790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_266
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 24
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d46fc9e6f43f9f0800000000000000
+      internalID: -435917402426421950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_267
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 15
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7cf81e87bddfd0800000000000000
+      internalID: -2315492812466128378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_268
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 10
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54c58835e035d70800000000000000
+      internalID: 9030577429740799487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Valkyrie Randgris_269
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 13
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595cb8bb55a8ffef0800000000000000
+      internalID: -72186968191285867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
