@@ -3,14 +3,20 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerHealtManager : MonoBehaviour{
-    // Start is called before the first frame update
 
     public int playerMaxHealth;
     public int playerCurrentHealth;
 
+    private bool flashActive;
+    public float flashLenght;
+    private float flashCounter;
+
+    private SpriteRenderer playerSprite;
+
 
     void Start(){
       playerCurrentHealth = playerMaxHealth;
+      playerSprite = GetComponent<SpriteRenderer>();
 
     }
 
@@ -20,11 +26,29 @@ public class PlayerHealtManager : MonoBehaviour{
         gameObject.SetActive(false);
       }
 
+      if (flashActive) {
+
+        if(flashCounter > flashLenght * 0.66f){
+          playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+        }else if (flashCounter > flashLenght * 0.33f){
+          playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+        }else if (flashCounter > 0f){
+          playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 0f);
+        }else{
+          playerSprite.color = new Color(playerSprite.color.r, playerSprite.color.g, playerSprite.color.b, 1f);
+          flashActive = false;
+        }
+        flashCounter -= Time.deltaTime;
+
+      }
+
     }
 
     public void HurtPlayer(int damageToGive){
 
       playerCurrentHealth -= damageToGive;
+      flashActive = true;
+      flashCounter = flashLenght;
 
     }
 
