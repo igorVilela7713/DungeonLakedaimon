@@ -20,6 +20,8 @@ public class PlayerController : MonoBehaviour{
     private static bool playerExists;
     public string startPoint;
 
+    public bool canMove;
+
     // Start is called before the first frame update
     void Start(){
       anim = GetComponent<Animator>();
@@ -30,6 +32,7 @@ public class PlayerController : MonoBehaviour{
       }else{
         Destroy(gameObject);
       }
+      canMove = true;
 
 
     }
@@ -37,6 +40,11 @@ public class PlayerController : MonoBehaviour{
     // Update is called once per frame
     void Update() {
         playerMoving = false;
+
+        if (!canMove) {
+          myRigidbody.velocity = Vector2.zero;
+          return;
+        }
 
         if (!attacking) {
 
