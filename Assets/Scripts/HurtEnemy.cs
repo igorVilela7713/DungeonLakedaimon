@@ -30,6 +30,14 @@ public class HurtEnemy : MonoBehaviour{
         var clone = (GameObject)Instantiate(damageNumber, hitPoint.position, Quaternion.Euler(Vector3.zero));
         clone.GetComponent<FloatingNumbers>().damageNumber = damageToGive;
 
+      }else if (other.gameObject.tag == "Boss") {
+
+        //  Destroy(other.gameObject);
+        other.gameObject.GetComponent<BossHealth>().TakeDamage(damageToGive);
+        Instantiate(damageBurst, hitPoint.position, hitPoint.rotation);
+        var clone = (GameObject)Instantiate(damageNumber, hitPoint.position, Quaternion.Euler(Vector3.zero));
+        clone.GetComponent<FloatingNumbers>().damageNumber = damageToGive;
+
       }
     }
 }

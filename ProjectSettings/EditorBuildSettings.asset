@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/house_inside.unity
     guid: aa845042d87e1dd4ea95b57416013c1e
+  - enabled: 1
+    path: Assets/Scenes/boos_ROOM.unity
+    guid: d5b040fc643c2b44ead7ce2abcd462df
   m_configObjects: {}

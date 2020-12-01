@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 33080530}
   - component: {fileID: 33080531}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Weapon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57,7 +57,7 @@ GameObject:
   m_Component:
   - component: {fileID: 520114477}
   - component: {fileID: 520114476}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Sword
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138,7 +138,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 823940204}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: HitPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 1494231009}
   - component: {fileID: 1494231008}
   - component: {fileID: 1494231007}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: swing big
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -310,9 +310,9 @@ GameObject:
   - component: {fileID: 1853185865192522327}
   - component: {fileID: 1853185865192522326}
   - component: {fileID: 1718908070}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -401,6 +401,7 @@ MonoBehaviour:
   lastMove: {x: 0, y: 0}
   attackTime: 0.5
   startPoint: 
+  canMove: 0
 --- !u!95 &1853185865192522321
 Animator:
   serializedVersion: 3
