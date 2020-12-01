@@ -19,24 +19,7 @@ public class DialogueHolder : MonoBehaviour{
 
     }
 
-    void OnTriggerStay2D(Collider2D other){
-
-      if (other.gameObject.name == "Player") {
-        if (Input.GetKeyUp(KeyCode.Space)) {
-
-          //dMan.ShowBox(dialogue);
-          if (!dMan.dialogActive) {
-
-            dMan.dialogueLines = dialogueLines;
-            dMan.currentLine = 0;
-            dMan.ShowDialogue();
-
-          }
-
-        }
-      }
-
-    }
+  
 
     void OnTriggerEnter2D(Collider2D other){
 

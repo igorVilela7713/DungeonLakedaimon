@@ -289,7 +289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80520b456a3ee4a46927d030ce4064b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageToGive: 10
+  damageToGive: 15
   damageBurst: {fileID: 4899475744302732806, guid: 4c423d41be7c0fd4fb23a09762b81e8b,
     type: 3}
   hitPoint: {fileID: 823940204}
@@ -480,6 +480,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a6c880f1155c04408f4c2a231aa9f18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerMaxHealth: 200
+  playerMaxHealth: 250
   playerCurrentHealth: 0
   flashLenght: 0.5
