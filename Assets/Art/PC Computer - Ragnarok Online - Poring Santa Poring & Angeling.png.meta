@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 2e18cba3fc328d74da1b5e4098f3ca07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8174333891845526248
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_0
+  - first:
+      213: 7599625658327588454
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_1
+  - first:
+      213: 4207511272732355482
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_2
+  - first:
+      213: 90458234318230203
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_3
+  - first:
+      213: -126831371860009052
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_4
+  - first:
+      213: 937485756884214167
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_5
+  - first:
+      213: -4511873098620175254
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_6
+  - first:
+      213: -5495600428470136348
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_7
+  - first:
+      213: -8522178225391878225
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_8
+  - first:
+      213: -3011729883446794343
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_9
+  - first:
+      213: 3704595290890787468
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_10
+  - first:
+      213: -3880928557161416155
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_11
+  - first:
+      213: -8148844581716946197
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_12
+  - first:
+      213: -5150789882506040321
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_13
+  - first:
+      213: 7965970105355880740
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_14
+  - first:
+      213: 5720260954563068942
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_15
+  - first:
+      213: 7490781567768694131
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_16
+  - first:
+      213: 2280053550060044258
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_17
+  - first:
+      213: 6367207285961257328
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_18
+  - first:
+      213: 263833194090648948
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_19
+  - first:
+      213: 1477643694005962415
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_20
+  - first:
+      213: -8987779677502012456
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_21
+  - first:
+      213: 1719604222985887017
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_22
+  - first:
+      213: 8662978790298558263
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_23
+  - first:
+      213: 1299878114719312741
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_24
+  - first:
+      213: 8410063153452797376
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_25
+  - first:
+      213: -4002501820743263560
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_26
+  - first:
+      213: -8072525588077993093
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_27
+  - first:
+      213: 2474930687921168308
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_28
+  - first:
+      213: -7891714175585828588
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_29
+  - first:
+      213: -8136002430704604031
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_30
+  - first:
+      213: -4238965146731613591
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_31
+  - first:
+      213: 6791194934030502130
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_32
+  - first:
+      213: -922972586162111791
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_33
+  - first:
+      213: -4202019353490857257
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_34
+  - first:
+      213: -7909662131282195645
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_35
+  - first:
+      213: -2626986032327960168
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_36
+  - first:
+      213: 3993242387724655528
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_37
+  - first:
+      213: 8663499907418572776
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_38
+  - first:
+      213: -1732782714293473174
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_39
+  - first:
+      213: 2036026908485469429
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_40
+  - first:
+      213: -7708371482588654310
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_41
+  - first:
+      213: -8191287052895020451
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_42
+  - first:
+      213: -2255641840347707413
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_43
+  - first:
+      213: 8605724887646898291
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_44
+  - first:
+      213: -8330415116944030409
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_45
+  - first:
+      213: 3998945026492226352
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_46
+  - first:
+      213: 3760517165160514418
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_47
+  - first:
+      213: 2289193086188478320
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_48
+  - first:
+      213: -3780203779244674729
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_49
+  - first:
+      213: -4985119559221367851
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_50
+  - first:
+      213: 8109447480773313635
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_51
+  - first:
+      213: 6997615603939081674
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_52
+  - first:
+      213: -1846573004196045547
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_53
+  - first:
+      213: -8539213236414506214
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_54
+  - first:
+      213: 7422152209992252961
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_55
+  - first:
+      213: -3191638465487836539
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_56
+  - first:
+      213: -294252211349171723
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_57
+  - first:
+      213: -5455521516414953724
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_58
+  - first:
+      213: -6155074747663078178
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_59
+  - first:
+      213: 7647276230109113762
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_60
+  - first:
+      213: -3654582313775803882
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_61
+  - first:
+      213: 1377824172156925287
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_62
+  - first:
+      213: 8355860570720902122
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_63
+  - first:
+      213: 7701814215937935125
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_64
+  - first:
+      213: -9157404813637253846
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_65
+  - first:
+      213: -2679387068015081746
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_66
+  - first:
+      213: 2689865462446613106
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_67
+  - first:
+      213: -5759664124643043863
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_68
+  - first:
+      213: 5623007045099877746
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_69
+  - first:
+      213: -6090116624551168397
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_70
+  - first:
+      213: -6350775300255782378
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_71
+  - first:
+      213: -1512695543929959207
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_72
+  - first:
+      213: -8522021054164472727
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_73
+  - first:
+      213: -8346729453827932301
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_74
+  - first:
+      213: 9000146208973812656
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_75
+  - first:
+      213: -7445484904270691599
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_76
+  - first:
+      213: -7965304108938824059
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_77
+  - first:
+      213: 3729451770351227032
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_78
+  - first:
+      213: 346749510067647362
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_79
+  - first:
+      213: -2115788408023797991
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_80
+  - first:
+      213: -6510520330360578861
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_81
+  - first:
+      213: -4607246869890620973
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_82
+  - first:
+      213: 4572000764963071049
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_83
+  - first:
+      213: 5597520490203696578
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_84
+  - first:
+      213: -1525717710684057655
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_85
+  - first:
+      213: 4539602318752219544
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_86
+  - first:
+      213: -2197689126879825180
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_87
+  - first:
+      213: -1751706837034697988
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_88
+  - first:
+      213: 6666794490316514625
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_89
+  - first:
+      213: -4548660677290549303
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_90
+  - first:
+      213: -6757443895889827404
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_91
+  - first:
+      213: 7761708272735571933
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_92
+  - first:
+      213: -4640995766502916322
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_93
+  - first:
+      213: -6695967047103509675
+    second: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 543
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e293ea7d51117170800000000000000
+      internalID: 8174333891845526248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 511
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5f8e854b477960800000000000000
+      internalID: 7599625658327588454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 510
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be9afc535146a30800000000000000
+      internalID: 4207511272732355482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 539
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21c8be84f514100800000000000000
+      internalID: 90458234318230203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 542
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af98ed0a876d3ef0800000000000000
+      internalID: -126831371860009052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 509
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916211345e920d00800000000000000
+      internalID: 937485756884214167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 509
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7a1d525b9261c0800000000000000
+      internalID: -4511873098620175254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19d89f684bbb3b0800000000000000
+      internalID: -5495600428470136348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 511
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb2f27e042bb980800000000000000
+      internalID: -8522178225391878225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 510
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a9b9b0af2436d0800000000000000
+      internalID: -3011729883446794343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 509
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a512e0acd596330800000000000000
+      internalID: 3704595290890787468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 537
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a79bf0a0c242ac0800000000000000
+      internalID: -3880928557161416155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 509
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d85e4e52a94f760800000000000000
+      internalID: 7490781567768694131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 454
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7230af9064af10800000000000000
+      internalID: 2280053550060044258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 454
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071fffaaa4ddc5850800000000000000
+      internalID: 6367207285961257328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 454
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475dab564e259a300800000000000000
+      internalID: 263833194090648948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 453
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa642dd5c15a18410800000000000000
+      internalID: 1477643694005962415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 454
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3840ba00ef44380800000000000000
+      internalID: -8987779677502012456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 454
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd5511ee24dd710800000000000000
+      internalID: 1719604222985887017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 453
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1d74bf45193870800000000000000
+      internalID: 8662978790298558263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 453
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b262f12481a0210800000000000000
+      internalID: 1299878114719312741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 461
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5eb9dcc14478c0800000000000000
+      internalID: -4002501820743263560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b732c5a6fb0a8ff80800000000000000
+      internalID: -8072525588077993093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 395
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf11411958b85220800000000000000
+      internalID: 2474930687921168308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 395
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ca47f4cffa7290800000000000000
+      internalID: -7891714175585828588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 396
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c232a45ec171f80800000000000000
+      internalID: -8136002430704604031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 395
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fcc578ab2c25c0800000000000000
+      internalID: -4238965146731613591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 395
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8025bafcb2f3e50800000000000000
+      internalID: 6791194934030502130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_33
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 395
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da3260b251f033f0800000000000000
+      internalID: -922972586162111791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 394
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26cd749ad6fa5c0800000000000000
+      internalID: -4202019353490857257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Poring Santa Poring & Angeling_79
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 195
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837f9d97d6efc400800000000000000
+      internalID: 346749510067647362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

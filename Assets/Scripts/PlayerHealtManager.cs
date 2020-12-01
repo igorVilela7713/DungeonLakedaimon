@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealtManager : MonoBehaviour{
 
@@ -23,7 +24,10 @@ public class PlayerHealtManager : MonoBehaviour{
     // Update is called once per frame
     void Update(){
       if (playerCurrentHealth <= 0) {
-        gameObject.SetActive(false);
+      //  gameObject.SetActive (false);
+        SceneManager.LoadScene("main");
+        playerCurrentHealth = playerMaxHealth;
+        gameObject.GetComponent<PlayerController>().startPoint = "Spawn";
       }
 
       if (flashActive) {

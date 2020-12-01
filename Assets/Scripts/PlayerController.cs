@@ -33,6 +33,7 @@ public class PlayerController : MonoBehaviour{
         Destroy(gameObject);
       }
       canMove = true;
+      lastMove = new Vector2(0, -1f);
 
 
     }
