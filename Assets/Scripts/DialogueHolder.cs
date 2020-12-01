@@ -38,4 +38,23 @@ public class DialogueHolder : MonoBehaviour{
 
     }
 
+    void OnTriggerEnter2D(Collider2D other){
+
+      if (other.gameObject.name == "Player") {
+
+
+          //dMan.ShowBox(dialogue);
+          if (!dMan.dialogActive) {
+
+            dMan.dialogueLines = dialogueLines;
+            dMan.currentLine = 0;
+            dMan.ShowDialogue();
+
+          }
+
+        }
+
+
+    }
+
 }
