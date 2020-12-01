@@ -489,7 +489,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 490, y: -493}
+  m_AnchoredPosition: {x: 526, y: -503}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1560171904
@@ -640,6 +640,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: boss
       objectReference: {fileID: 0}
+    - target: {fileID: 3621578820058855124, guid: 05bcfa369baa05245ad72cfd6701e660,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4182265724345326060, guid: 05bcfa369baa05245ad72cfd6701e660,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -783,11 +788,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: theBoos
       objectReference: {fileID: 0}
-    - target: {fileID: 8893489358544392852, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
-        type: 3}
-      propertyPath: m_TagString
-      value: Boss
-      objectReference: {fileID: 0}
     - target: {fileID: 8893489358544392858, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -845,24 +845,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8893489358544392862, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
         type: 3}
+      propertyPath: isFlipped
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8893489358544392862, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
+        type: 3}
       propertyPath: player
       value: 
       objectReference: {fileID: 1853185865192522323, guid: e2a23a1965dab714fa1766922c2095ef,
         type: 3}
-    - target: {fileID: 8893489358544392863, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
-        type: 3}
-      propertyPath: m_UseAutoMass
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8893489358544392863, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
-        type: 3}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8893489358544392863, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
-        type: 3}
-      propertyPath: m_Simulated
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35a971e435abd8c44a6b8db2e50ea6d4, type: 3}

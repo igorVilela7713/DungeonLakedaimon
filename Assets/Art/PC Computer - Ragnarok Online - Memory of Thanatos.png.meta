@@ -1,0 +1,2168 @@
+fileFormatVersion: 2
+guid: 6c049e632e91cd84b88dc83b37170fd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1701863611727842652
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_0
+  - first:
+      213: -590397806971192720
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_1
+  - first:
+      213: 682451777907780315
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_2
+  - first:
+      213: -3213934645946540165
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_3
+  - first:
+      213: -6763659537171478273
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_4
+  - first:
+      213: -1206544182524492986
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_5
+  - first:
+      213: 4115603944293036811
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_6
+  - first:
+      213: 1598201039827229297
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_7
+  - first:
+      213: -7193915290047963914
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_8
+  - first:
+      213: -1944023055605953304
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_9
+  - first:
+      213: 7800654396553630578
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_10
+  - first:
+      213: 4210531819314846447
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_11
+  - first:
+      213: -3753433982530287824
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_12
+  - first:
+      213: 8654649939807077324
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_13
+  - first:
+      213: 5210894542465714563
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_14
+  - first:
+      213: 2348166401602669855
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_15
+  - first:
+      213: -697724712908278162
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_16
+  - first:
+      213: 3303746348775824409
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_17
+  - first:
+      213: -347867919936952759
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_18
+  - first:
+      213: 4191953913975029883
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_19
+  - first:
+      213: -3493948262828140051
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_20
+  - first:
+      213: 5511397499674987553
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_21
+  - first:
+      213: 2257498321815227938
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_22
+  - first:
+      213: 1757056676192790300
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_23
+  - first:
+      213: -7672860480548965213
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_24
+  - first:
+      213: -5146693381594286004
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_25
+  - first:
+      213: 2247487712442064180
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_26
+  - first:
+      213: -661499834217700176
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_27
+  - first:
+      213: -8487950448913568151
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_28
+  - first:
+      213: -7926549952396040775
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_29
+  - first:
+      213: -766971415295444833
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_30
+  - first:
+      213: 1036207986083168838
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_31
+  - first:
+      213: -5576290120412463166
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_32
+  - first:
+      213: -2235101434994039826
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_33
+  - first:
+      213: 2054557794882587551
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_34
+  - first:
+      213: -5929677694838359892
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_35
+  - first:
+      213: 3902198358260008459
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_36
+  - first:
+      213: -3034293378941715222
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_37
+  - first:
+      213: 772675664944012686
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_38
+  - first:
+      213: 5563372440785460354
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_39
+  - first:
+      213: 8558119622071418102
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_40
+  - first:
+      213: -4842359742332799445
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_41
+  - first:
+      213: -4879203609321189723
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_42
+  - first:
+      213: 7783395616773853282
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_43
+  - first:
+      213: 6489596223754431774
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_44
+  - first:
+      213: 2887121116972984532
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_45
+  - first:
+      213: 7099419333861054304
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_46
+  - first:
+      213: 5235723156482765402
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_47
+  - first:
+      213: 2214751303215903647
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_48
+  - first:
+      213: 7345124044394905940
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_49
+  - first:
+      213: -7938375931961548660
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_50
+  - first:
+      213: -7814560343459691987
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_51
+  - first:
+      213: 6798007124225546366
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_52
+  - first:
+      213: 6680843363276852350
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_53
+  - first:
+      213: -2572510071905844473
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_54
+  - first:
+      213: -2238512123439376793
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_55
+  - first:
+      213: 5500754257251890367
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_56
+  - first:
+      213: 2361733269221833909
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_57
+  - first:
+      213: 989379685590446854
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_58
+  - first:
+      213: 8035666122735249280
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_59
+  - first:
+      213: -5031146600934278228
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_60
+  - first:
+      213: 5774628962830305484
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_61
+  - first:
+      213: 5232229739101070146
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_62
+  - first:
+      213: -3804741565288902929
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_63
+  - first:
+      213: 405200049541678303
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_64
+  - first:
+      213: 293152604173735869
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_65
+  - first:
+      213: -7870310195518467729
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_66
+  - first:
+      213: -4734185032787835598
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_67
+  - first:
+      213: -8192317823373317719
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_68
+  - first:
+      213: -3352774283143755677
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_69
+  - first:
+      213: 2307745840851294831
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_70
+  - first:
+      213: -8260676723260573665
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_71
+  - first:
+      213: -3149877214093765079
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_72
+  - first:
+      213: -6431010184118343849
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_73
+  - first:
+      213: 6671716407487103485
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_74
+  - first:
+      213: 4512838324916700677
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_75
+  - first:
+      213: -1445279768028516359
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_76
+  - first:
+      213: 747423354143873674
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_77
+  - first:
+      213: 3780890746284775635
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_78
+  - first:
+      213: 2759067555613186915
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_79
+  - first:
+      213: -5259000552072165126
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_80
+  - first:
+      213: 5123563487593591716
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_81
+  - first:
+      213: 5893138451749027740
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_82
+  - first:
+      213: -5294733235994939298
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_83
+  - first:
+      213: -5194174506817264849
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_84
+  - first:
+      213: -5051069166787800619
+    second: PC Computer - Ragnarok Online - Memory of Thanatos_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1358
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d833120fb3e9710800000000000000
+      internalID: 1701863611727842652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1357
+        width: 65
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aff47925c7ec7f0800000000000000
+      internalID: -590397806971192720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1357
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae686b64e887900800000000000000
+      internalID: 682451777907780315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1357
+        width: 68
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f1909b77fc563d0800000000000000
+      internalID: -3213934645946540165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1357
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff806318c77a222a0800000000000000
+      internalID: -6763659537171478273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1357
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64340d2657e714fe0800000000000000
+      internalID: -1206544182524492986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1358
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0378cf5bff8d1930800000000000000
+      internalID: 4115603944293036811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1358
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17adf8ac063fd2610800000000000000
+      internalID: 1598201039827229297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1358
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc9070a8241a2c90800000000000000
+      internalID: -7193915290047963914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_9
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1358
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec007fa4517505e0800000000000000
+      internalID: -1944023055605953304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_10
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1357
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2731b2218dd714c60800000000000000
+      internalID: 7800654396553630578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1357
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9dbd9160de6a30800000000000000
+      internalID: 4210531819314846447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1223
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037076fedaf19ebc0800000000000000
+      internalID: -3753433982530287824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1225
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc38e85144e7b1870800000000000000
+      internalID: 8654649939807077324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1226
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c0b55af0d05840800000000000000
+      internalID: 5210894542465714563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1226
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc801b6ec569020800000000000000
+      internalID: 2348166401602669855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1225
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663710021f2156f0800000000000000
+      internalID: -697724712908278162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1222
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd6cadcc349dd20800000000000000
+      internalID: 3303746348775824409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1222
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946676b48ff1c2bf0800000000000000
+      internalID: -347867919936952759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1222
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704a45ffdfcc2a30800000000000000
+      internalID: 4191953913975029883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1092
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de919821190038fc0800000000000000
+      internalID: -3493948262828140051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1090
+        width: 71
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c8a1843da6c7c40800000000000000
+      internalID: 5511397499674987553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1092
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e46d053ce345f10800000000000000
+      internalID: 2257498321815227938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1095
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1723badcb1526810800000000000000
+      internalID: 1757056676192790300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1097
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4feb5ab06848590800000000000000
+      internalID: -7672860480548965213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1095
+        width: 63
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f73643a54398b0800000000000000
+      internalID: -5146693381594286004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1097
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1a21ba2ea03f10800000000000000
+      internalID: 2247487712442064180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1095
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46972d761e1d6f0800000000000000
+      internalID: -661499834217700176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 935
+        width: 73
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea36da90eb43a80800000000000000
+      internalID: -8487950448913568151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 934
+        width: 68
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56b01a0dc3ff190800000000000000
+      internalID: -7926549952396040775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 934
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98bf66bf8b2b55f0800000000000000
+      internalID: -766971415295444833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 924
+        width: 178
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64209eb5ca9516e00800000000000000
+      internalID: 1036207986083168838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 925
+        width: 178
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7b401ea90d92b0800000000000000
+      internalID: -5576290120412463166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_33
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 934
+        width: 169
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e63246135bf0e0800000000000000
+      internalID: -2235101434994039826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_34
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 934
+        width: 153
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b8c7ecd61438c10800000000000000
+      internalID: 2054557794882587551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 769
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca83a96ad8d85bda0800000000000000
+      internalID: -5929677694838359892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 769
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06433b6bb4672630800000000000000
+      internalID: 3902198358260008459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 769
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecfbdb8f3604e5d0800000000000000
+      internalID: -3034293378941715222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 773
+        width: 174
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d93976c6819ba00800000000000000
+      internalID: 772675664944012686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 774
+        width: 171
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c173642c1153d40800000000000000
+      internalID: 5563372440785460354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_40
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 774
+        width: 166
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcfdd2147c84c670800000000000000
+      internalID: 8558119622071418102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_41
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 774
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f993687b7cccb0800000000000000
+      internalID: -4842359742332799445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 620
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4b9f1b26994cb0800000000000000
+      internalID: -4879203609321189723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 620
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2605324431d240c60800000000000000
+      internalID: 7783395616773853282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 475
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d6994d16daf0a50800000000000000
+      internalID: 6489596223754431774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 476
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d824b8fb5d111820800000000000000
+      internalID: 2887121116972984532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_46
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 486
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06714521544368260800000000000000
+      internalID: 7099419333861054304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_47
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 492
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a523174887609a840800000000000000
+      internalID: 5235723156482765402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 502
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93740673906cbe10800000000000000
+      internalID: 2214751303215903647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 333
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451c659f66f1fe560800000000000000
+      internalID: 7345124044394905940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 336
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ebe1362935d190800000000000000
+      internalID: -7938375931961548660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_51
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 345
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220b3c55ca1d8390800000000000000
+      internalID: -7814560343459691987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 341
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d90c467f575e50800000000000000
+      internalID: 6798007124225546366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_53
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 341
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c842c64af17bc50800000000000000
+      internalID: 6680843363276852350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70300f628bb9c4cd0800000000000000
+      internalID: -2572510071905844473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 249
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7669df875153fe0e0800000000000000
+      internalID: -2238512123439376793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 263
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4773c4ada965c40800000000000000
+      internalID: 5500754257251890367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 269
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc703635ef86c020800000000000000
+      internalID: 2361733269221833909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 210
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6033b93059bfabd00800000000000000
+      internalID: 989379685590446854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087664b83cb648f60800000000000000
+      internalID: 8035666122735249280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_60
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 251
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf56692d6cd2ab0800000000000000
+      internalID: -5031146600934278228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_61
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 242
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ce27427a932050800000000000000
+      internalID: 5774628962830305484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_62
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 246
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243aa56e93d9c9840800000000000000
+      internalID: 5232229739101070146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_63
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 251
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8aca64b7d23bc0800000000000000
+      internalID: -3804741565288902929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_64
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 254
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd407e75c4f8f9500800000000000000
+      internalID: 405200049541678303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_65
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db791c48dbc711400800000000000000
+      internalID: 293152604173735869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_66
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 244
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619cfb639a07c290800000000000000
+      internalID: -7870310195518467729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_67
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 237
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c5b3abcbcc4eb0800000000000000
+      internalID: -4734185032787835598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 243
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96bba285a0f4e80800000000000000
+      internalID: -8192317823373317719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 252
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c621ad8d8871d0800000000000000
+      internalID: -3352774283143755677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 260
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a93d38d92c60020800000000000000
+      internalID: 2307745840851294831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 254
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1837b1894e2c5d80800000000000000
+      internalID: -8260676723260573665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_72
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 248
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92618dfcc536944d0800000000000000
+      internalID: -3149877214093765079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e4bc7f4670c6a0800000000000000
+      internalID: -6431010184118343849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 261
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df10a6e69b2b69c50800000000000000
+      internalID: 6671716407487103485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 243
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506cd65eb82d0ae30800000000000000
+      internalID: 4512838324916700677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 241
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe99955b551fbe0800000000000000
+      internalID: -1445279768028516359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9390a4916f5a00800000000000000
+      internalID: 747423354143873674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d89dda0a1c687430800000000000000
+      internalID: 3780890746284775635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 245
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b11abd25d2a4620800000000000000
+      internalID: 2759067555613186915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 162
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c72c7cd64407b0800000000000000
+      internalID: -5259000552072165126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_81
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37d2e98dd8a1740800000000000000
+      internalID: 5123563487593591716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_82
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 8
+        width: 78
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f32bcd232a8c150800000000000000
+      internalID: 5893138451749027740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_83
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 45
+        width: 149
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503110bc245586b0800000000000000
+      internalID: -5294733235994939298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_84
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 44
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2364c35ec59ae7b0800000000000000
+      internalID: -5194174506817264849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Memory of Thanatos_85
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 30
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d15fa1ca5ff6e9b0800000000000000
+      internalID: -5051069166787800619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

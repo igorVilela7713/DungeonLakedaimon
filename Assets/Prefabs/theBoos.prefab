@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 1793327483}
   m_Layer: 0
   m_Name: theBoos
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e3fe54d248172b4281a90696ae5926d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 1853185865192522323, guid: e2a23a1965dab714fa1766922c2095ef, type: 3}
   isFlipped: 0
 --- !u!114 &8893489358544392861
 MonoBehaviour:
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf81d8c12a0c2a043b526f6731931426, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackDamage: 20
+  attackDamage: 15
   enragedAttackDamage: 40
   attackOffset: {x: -1, y: -1, z: 0}
   attackRange: 1
@@ -199,5 +199,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f853fdca05cc96541a3281658e2ef2e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 350
+  health: 400
   isInvulnerable: 0

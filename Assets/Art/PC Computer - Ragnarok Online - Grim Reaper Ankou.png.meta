@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 5daae9f81185d4d4ab1e7ca73dcf9712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3633517078914149258
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_0
+  - first:
+      213: -4768355305847055954
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_1
+  - first:
+      213: 1597586552964594463
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_2
+  - first:
+      213: 1345463184127077765
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_3
+  - first:
+      213: 6486705909856227252
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_4
+  - first:
+      213: 1306966204255009925
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_5
+  - first:
+      213: -1880752469237974451
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_6
+  - first:
+      213: -2403462913453472224
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_7
+  - first:
+      213: -7451335221361523228
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_8
+  - first:
+      213: 3040664479855891732
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_9
+  - first:
+      213: -8699339584709152456
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_10
+  - first:
+      213: -5985483519367454349
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_11
+  - first:
+      213: 5066867146607635459
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_12
+  - first:
+      213: 9065203740668173470
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_13
+  - first:
+      213: 35098860462563539
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_14
+  - first:
+      213: 2548865156385946769
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_15
+  - first:
+      213: 1535816357272958099
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_16
+  - first:
+      213: -5891347380437075476
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_17
+  - first:
+      213: -2787691379524043925
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_18
+  - first:
+      213: -2998713593002098543
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_19
+  - first:
+      213: -738445844737750620
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_20
+  - first:
+      213: -6740940560828831090
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_21
+  - first:
+      213: -4461367564643286136
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_22
+  - first:
+      213: 4014483127469869819
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_23
+  - first:
+      213: -7633497772245568576
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_24
+  - first:
+      213: -3329499964149037903
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_25
+  - first:
+      213: 8401746943098454226
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_26
+  - first:
+      213: 7529929302659070621
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_27
+  - first:
+      213: 7061129784489257190
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_28
+  - first:
+      213: 5729931828540511419
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_29
+  - first:
+      213: 3553275744465928290
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_30
+  - first:
+      213: 2515020031022156596
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_31
+  - first:
+      213: 5356560128676533428
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_32
+  - first:
+      213: -2761070846322907558
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_33
+  - first:
+      213: 2440285897337392965
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_34
+  - first:
+      213: -4443943487220722998
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_35
+  - first:
+      213: 4667973860658704129
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_36
+  - first:
+      213: -6801823124758302377
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_37
+  - first:
+      213: -8740033832543331713
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_38
+  - first:
+      213: -7865297765322306737
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_39
+  - first:
+      213: 7158483630803654463
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_40
+  - first:
+      213: -6432127050293005007
+    second: PC Computer - Ragnarok Online - Grim Reaper Ankou_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1935
+        width: 1421
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d10ac777239dc0800000000000000
+      internalID: -3633517078914149258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1950
+        width: 110
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91328fc1663ddb0800000000000000
+      internalID: -4768355305847055954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1950
+        width: 110
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b356b6184cb2610800000000000000
+      internalID: 1597586552964594463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1950
+        width: 110
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da24c23ab0ca210800000000000000
+      internalID: 1345463184127077765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1949
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf486f28a8650a50800000000000000
+      internalID: 6486705909856227252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_5
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1935
+        width: 115
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7f0296d6432210800000000000000
+      internalID: 1306966204255009925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_6
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1935
+        width: 115
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab1a8089936e5e0800000000000000
+      internalID: -1880752469237974451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1935
+        width: 114
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c7ccd63f25aed0800000000000000
+      internalID: -2403462913453472224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_8
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2033
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c364581a879890800000000000000
+      internalID: -7451335221361523228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1744
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41555fafb3c923a20800000000000000
+      internalID: 3040664479855891732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1744
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831bae02dbcb54780800000000000000
+      internalID: -8699339584709152456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1744
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e52b937a4feca0800000000000000
+      internalID: -5985483519367454349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1744
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c25ad03d0215640800000000000000
+      internalID: 5066867146607635459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1744
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c911bc5c21ecd70800000000000000
+      internalID: 9065203740668173470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_14
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1758
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d064e54a32bc7000800000000000000
+      internalID: 35098860462563539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_15
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1712
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c31c2fa536f5320800000000000000
+      internalID: 2548865156385946769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_16
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1690
+        width: 70
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943d7ff6d0505510800000000000000
+      internalID: 1535816357272958099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_17
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1715
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9be9c65cabd3ea0800000000000000
+      internalID: -5891347380437075476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1555
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bfc0cc5712059d0800000000000000
+      internalID: -2787691379524043925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1555
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19089f100ed6266d0800000000000000
+      internalID: -2998713593002098543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1555
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90b8aaa6380c5f0800000000000000
+      internalID: -738445844737750620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1550
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a66c3664e5372a0800000000000000
+      internalID: -6740940560828831090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_22
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1550
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883ccf856d90612c0800000000000000
+      internalID: -4461367564643286136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_23
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1654
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa04a1822f46b730800000000000000
+      internalID: 4014483127469869819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_24
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1605
+        width: 139
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3319b583e501690800000000000000
+      internalID: -7633497772245568576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1321
+        width: 110
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4883d4c6d3bc1d0800000000000000
+      internalID: -3329499964149037903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1316
+        width: 121
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08b149450099470800000000000000
+      internalID: 8401746943098454226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1315
+        width: 121
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7cc43eceaf7860800000000000000
+      internalID: 7529929302659070621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1394
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a965a02c2ef160800000000000000
+      internalID: 7061129784489257190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_29
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1315
+        width: 119
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49c5bb3aec48f40800000000000000
+      internalID: 5729931828540511419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1311
+        width: 121
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26047e9a675cf4130800000000000000
+      internalID: 3553275744465928290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1397
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4110a46527e220800000000000000
+      internalID: 2515020031022156596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_32
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1308
+        width: 119
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b419c78e03565a40800000000000000
+      internalID: 5356560128676533428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1054
+        width: 114
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566c3da1b4bea9d0800000000000000
+      internalID: -2761070846322907558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1056
+        width: 118
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc03d2813add120800000000000000
+      internalID: 2440285897337392965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1055
+        width: 118
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac25c4281f0f352c0800000000000000
+      internalID: -4443943487220722998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1055
+        width: 118
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fee598e79f7c040800000000000000
+      internalID: 4667973860658704129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_37
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1055
+        width: 118
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517eb7d7e11b91a0800000000000000
+      internalID: -6801823124758302377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_38
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1214
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7adb56398925b680800000000000000
+      internalID: -8740033832543331713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_39
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1175
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b4a45ca59d8d290800000000000000
+      internalID: -7865297765322306737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_40
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1145
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3710885fea085360800000000000000
+      internalID: 7158483630803654463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Grim Reaper Ankou_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1421
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ba11d68e7cb6a0800000000000000
+      internalID: -6432127050293005007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -400,7 +400,7 @@ MonoBehaviour:
   moveModifier: 0.6
   lastMove: {x: 0, y: 0}
   attackTime: 0.5
-  startPoint: 
+  startPoint: Spawn
   canMove: 0
 --- !u!95 &1853185865192522321
 Animator:
@@ -480,6 +480,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a6c880f1155c04408f4c2a231aa9f18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerMaxHealth: 100
+  playerMaxHealth: 200
   playerCurrentHealth: 0
   flashLenght: 0.5
