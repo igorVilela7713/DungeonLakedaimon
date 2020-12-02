@@ -291,16 +291,16 @@ MonoBehaviour:
   dialogue: Ola forasteiro!!
   dialogueLines:
   - Bem Vindo Escolhido
-  - Voce agora enfrentara os perigos da Dungeon
-  - Tenho algumas dicas antes de voce entrar
-  - 'Primeira: O mais dificil desafio sera o labirinto invisivel que toma conta deste
-    andar'
-  - 'Segundo: As vezes algumas coisas podem ser ilusoes'
+  - "Voc\xEA agora ir\xE1 enfrentar os perigos da Dungeon"
+  - "Tenho algumas dicas antes de voc\xEA entrar"
+  - "Primeira: O mais dif\xEDcil desafio ser\xE1 o labirinto invis\xEDvel que toma
+    conta deste andar"
+  - "Segundo: \xC0s vezes algumas coisas podem ser ilus\xF5es"
   - 'Terceiro: Cuidado com os monstros'
-  - 'Quarto: Quem sabe nao encontre o que procura caso triunfar'
-  - Apos conseguir superar o labirinto o verdadeiro desafio o aguarda
-  - Com isto lhe desejo boa sorte e que triunfe para poder descobrir um metodo de
-    revivier sua irma
+  - "Quarto: Quem sabe n\xE3o encontre oque procura caso triunfar"
+  - "Ap\xF3s conseguir superar o labirinto o verdadeiro desafio o aguarda"
+  - "Com isto lhe desejo boa sorte e que triunfe para poder descobrir um m\xE9todo
+    de reviver sua irm\xE3"
 --- !u!61 &61473076
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1579,8 +1579,8 @@ MonoBehaviour:
   - Meu caro amigo
   - Cuidado com o que vem a seguir
   - Sabemos apenas que Deus quer brincar com a gente
-  - Voce foi escolhido para poder desafiar a Dungeon mas lembre-se voltar com vida 
-    sempre melhor do que tentar o triunfo e morrer
+  - "Voc\xEA foi escolhido para poder desafiar a Dungeon, mas lembre-se voltar com
+    vida \xE9 sempre melhor do que tentar o triunfo e morrer"
   - Use com sabedoria essa oportunidade
 --- !u!61 &1982754882
 BoxCollider2D:

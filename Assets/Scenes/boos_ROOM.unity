@@ -835,12 +835,11 @@ MonoBehaviour:
   dialogue: Ola forasteiro!!
   dialogueLines:
   - Bem Vindo Escolhido
-  - Gostou das minhas dicas na entrada?
-  - O que busca e algo que ainda nao posso lhe contar como conseguir
-  - Ressucitar sua irma e possivel so nao agora
-  - Eu recomendo que pegue este ouro e espere por mais dungeons e se equipe para
-    elas
-  - Isto e tudo ate mais
+  - "O que busca \xE9 algo que ainda n\xE3o posso lhe contar como conseguir"
+  - "Ressuscitar sua irm\xE3 \xE9 poss\xEDvel por\xE9m n\xE3o ser\xE1 o pr\xEAmio
+    agora"
+  - "Recomendo que use o pr\xEAmio desta dungeon para conseguir superar a pr\xF3xima "
+  - "At\xE9 nela meu caro, l\xE1 lhe contarei o que deseja"
 --- !u!61 &2077411671
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1007,16 +1006,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8893489358544392862, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
-        type: 3}
-      propertyPath: isFlipped
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8893489358544392862, guid: 35a971e435abd8c44a6b8db2e50ea6d4,
-        type: 3}
-      propertyPath: player
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35a971e435abd8c44a6b8db2e50ea6d4, type: 3}
